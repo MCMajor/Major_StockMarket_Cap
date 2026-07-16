@@ -45,7 +45,7 @@ A single stock was used as the initial case study so the feature-engineering and
 ## Data
 
 Daily historical stock data was downloaded with `yfinance`.
-- **Data Source** Yahoo finance by way of yfinance
+- **Data Source:** Yahoo finance by way of yfinance
 - **Time period:** January 2015 through July 2026
 - **Observations:** 2,891 trading days
 - **Original fields:** Open, High, Low, Close, and Volume
