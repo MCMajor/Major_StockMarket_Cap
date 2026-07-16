@@ -33,8 +33,8 @@ A single stock was used as the initial case study so the feature-engineering and
 
 ### Supporting Questions
 
-1. What features will we use and what targets to determine profit. 
-2. Did trend, RSI, EMA positioning, or candlestick patterns change the average future return?
+1. What features and targets will we to determine profit?
+2. Did trend, RSI, EMAs positioning, or candlestick patterns change the average future return?
 3. Which trading rule produced the strongest total return?
 4. Which strategy produced the highest win rate or lowest drawdown?
 5. Were the observed relationships statistically significant?
@@ -45,7 +45,7 @@ A single stock was used as the initial case study so the feature-engineering and
 ## Data
 
 Daily historical stock data was downloaded with `yfinance`.
-
+- **Data Source** Yahoo finance by way of yfinance
 - **Time period:** January 2015 through July 2026
 - **Observations:** 2,891 trading days
 - **Original fields:** Open, High, Low, Close, and Volume
